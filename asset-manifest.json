@@ -1,9 +1,14 @@
 {
   "files": {
-    "main.css": "/THB/static/css/main.c406f11c.css",
-    "main.js": "/THB/static/js/main.1158833d.js",
+    "main.css": "/THB/static/css/main.7a0d33fd.css",
+    "main.js": "/THB/static/js/main.36a2ba7a.js",
     "static/js/453.eea86959.chunk.js": "/THB/static/js/453.eea86959.chunk.js",
+    "static/media/illustration-bike.png": "/THB/static/media/illustration-bike.c64a8ba56add88afd82f.png",
+    "static/media/illustration-sensor.png": "/THB/static/media/illustration-sensor.6a80672800e8246a4462.png",
+    "static/media/illustration-bpm.png": "/THB/static/media/illustration-bpm.9b79aecaf8987c18a700.png",
+    "static/media/illustration-watch.png": "/THB/static/media/illustration-watch.f484a369fbe4bbfc6d62.png",
     "static/media/implementacao.png": "/THB/static/media/implementacao.ef7414de1e74c527f62e.png",
+    "static/media/illustration-dashboard.png": "/THB/static/media/illustration-dashboard.96701a04f0cefb368f69.png",
     "static/media/nicole.png": "/THB/static/media/nicole.75885e9a0489280a2bfe.png",
     "static/media/deti_vertical_branco.png": "/THB/static/media/deti_vertical_branco.abb65d966d02cc436ac2.png",
     "static/media/theo.png": "/THB/static/media/theo.63082d82fc97b365ba37.png",
@@ -15,17 +20,18 @@
     "static/media/smartwatch.png": "/THB/static/media/smartwatch.f014b4f519d0a4c6dedf.png",
     "static/media/ecg.png": "/THB/static/media/ecg.8170330f567a3ede6059.png",
     "static/media/heatbox.png": "/THB/static/media/heatbox.2c34d5b72d0685a4e2dd.png",
+    "static/media/illustration-camera.png": "/THB/static/media/illustration-camera.7f0bc603c110f6c9f033.png",
     "static/media/camera.png": "/THB/static/media/camera.5c9ef5ff35d619645cea.png",
     "static/media/dashboard.svg": "/THB/static/media/dashboard.9f1df402eb481068c388b7a16f518ce9.svg",
     "static/media/bicycle.svg": "/THB/static/media/bicycle.dd2c870c1b19d22eea7f6b2408297125.svg",
     "static/media/heartRate.svg": "/THB/static/media/heartRate.e0f4178763a24e798fee1dd2e7ffbb83.svg",
     "index.html": "/THB/index.html",
-    "main.c406f11c.css.map": "/THB/static/css/main.c406f11c.css.map",
-    "main.1158833d.js.map": "/THB/static/js/main.1158833d.js.map",
+    "main.7a0d33fd.css.map": "/THB/static/css/main.7a0d33fd.css.map",
+    "main.36a2ba7a.js.map": "/THB/static/js/main.36a2ba7a.js.map",
     "453.eea86959.chunk.js.map": "/THB/static/js/453.eea86959.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c406f11c.css",
-    "static/js/main.1158833d.js"
+    "static/css/main.7a0d33fd.css",
+    "static/js/main.36a2ba7a.js"
   ]
 }
