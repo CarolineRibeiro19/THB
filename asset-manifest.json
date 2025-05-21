@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/THB/static/css/main.294c2779.css",
-    "main.js": "/THB/static/js/main.66653dae.js",
+    "main.css": "/THB/static/css/main.28e35c8a.css",
+    "main.js": "/THB/static/js/main.2d516959.js",
     "static/js/453.eea86959.chunk.js": "/THB/static/js/453.eea86959.chunk.js",
     "static/media/esp32.png": "/THB/static/media/esp32.59b91956c41109975633.png",
     "static/media/illustration-bike.png": "/THB/static/media/illustration-bike.c64a8ba56add88afd82f.png",
     "static/media/app1.mp4": "/THB/static/media/app1.93eb215cac180eacb5ab.mp4",
     "static/media/illustration-sensor.png": "/THB/static/media/illustration-sensor.6a80672800e8246a4462.png",
     "static/media/docker.png": "/THB/static/media/docker.ebea1e3414a3d0d981cb.png",
-    "static/media/react.png": "/THB/static/media/react.9c4c895e2b6e3a609d12.png",
     "static/media/influxdb.png": "/THB/static/media/influxdb.905cb0244e3106099664.png",
     "static/media/node.png": "/THB/static/media/node.c2edfe90b8ac3e4bb795.png",
     "static/media/grafana.png": "/THB/static/media/grafana.a951c5defa6b15e7f44f.png",
+    "static/media/js.png": "/THB/static/media/js.78fc2a93b945c139774a.png",
     "static/media/bluetooth.png": "/THB/static/media/bluetooth.220db05caefc0cbf0820.png",
     "static/media/illustration-bpm.png": "/THB/static/media/illustration-bpm.9b79aecaf8987c18a700.png",
     "static/media/kotlin.png": "/THB/static/media/kotlin.188335b89cf2b511cf2d.png",
@@ -21,6 +21,9 @@
     "static/media/app2.mp4": "/THB/static/media/app2.6990b9ab389ea155449f.mp4",
     "static/media/app3.mp4": "/THB/static/media/app3.b71b22570a26bbb9089a.mp4",
     "static/media/implementacao.png": "/THB/static/media/implementacao.3db490fb1844929362a8.png",
+    "static/media/hardware1.png": "/THB/static/media/hardware1.de3dfa9c75e02e695aa3.png",
+    "static/media/hardware2.png": "/THB/static/media/hardware2.062d14e80e665903731f.png",
+    "static/media/hardware3.png": "/THB/static/media/hardware3.e1713c76b699ca1e262a.png",
     "static/media/illustration-dashboard.png": "/THB/static/media/illustration-dashboard.96701a04f0cefb368f69.png",
     "static/media/nicole.png": "/THB/static/media/nicole.75885e9a0489280a2bfe.png",
     "static/media/deti_vertical_branco.png": "/THB/static/media/deti_vertical_branco.abb65d966d02cc436ac2.png",
@@ -39,12 +42,12 @@
     "static/media/bicycle.svg": "/THB/static/media/bicycle.dd2c870c1b19d22eea7f6b2408297125.svg",
     "static/media/heartRate.svg": "/THB/static/media/heartRate.e0f4178763a24e798fee1dd2e7ffbb83.svg",
     "index.html": "/THB/index.html",
-    "main.294c2779.css.map": "/THB/static/css/main.294c2779.css.map",
-    "main.66653dae.js.map": "/THB/static/js/main.66653dae.js.map",
+    "main.28e35c8a.css.map": "/THB/static/css/main.28e35c8a.css.map",
+    "main.2d516959.js.map": "/THB/static/js/main.2d516959.js.map",
     "453.eea86959.chunk.js.map": "/THB/static/js/453.eea86959.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.294c2779.css",
-    "static/js/main.66653dae.js"
+    "static/css/main.28e35c8a.css",
+    "static/js/main.2d516959.js"
   ]
 }
