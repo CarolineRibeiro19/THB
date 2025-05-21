@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/THB/static/css/main.28e35c8a.css",
-    "main.js": "/THB/static/js/main.2d516959.js",
+    "main.css": "/THB/static/css/main.72cb2290.css",
+    "main.js": "/THB/static/js/main.8d07ab2a.js",
     "static/js/453.eea86959.chunk.js": "/THB/static/js/453.eea86959.chunk.js",
     "static/media/esp32.png": "/THB/static/media/esp32.59b91956c41109975633.png",
     "static/media/illustration-bike.png": "/THB/static/media/illustration-bike.c64a8ba56add88afd82f.png",
@@ -42,12 +42,12 @@
     "static/media/bicycle.svg": "/THB/static/media/bicycle.dd2c870c1b19d22eea7f6b2408297125.svg",
     "static/media/heartRate.svg": "/THB/static/media/heartRate.e0f4178763a24e798fee1dd2e7ffbb83.svg",
     "index.html": "/THB/index.html",
-    "main.28e35c8a.css.map": "/THB/static/css/main.28e35c8a.css.map",
-    "main.2d516959.js.map": "/THB/static/js/main.2d516959.js.map",
+    "main.72cb2290.css.map": "/THB/static/css/main.72cb2290.css.map",
+    "main.8d07ab2a.js.map": "/THB/static/js/main.8d07ab2a.js.map",
     "453.eea86959.chunk.js.map": "/THB/static/js/453.eea86959.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28e35c8a.css",
-    "static/js/main.2d516959.js"
+    "static/css/main.72cb2290.css",
+    "static/js/main.8d07ab2a.js"
   ]
 }
