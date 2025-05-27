@@ -1,7 +1,8 @@
 import React from 'react';
 import './App.css';
 import './index.css';
-import { HashRouter as Router, Route, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+//import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Implementacao from './components/Implementacao';
 import Tecnologias from './components/Tecnologias';
 import Hardware from './components/Hardware';
