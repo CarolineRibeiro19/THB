@@ -66,13 +66,13 @@ function Header() {
       </button>
       <div className="aspect-w-16 aspect-h-9">
         <iframe
-          src="https://youtu.be/PlrUbAjPF5k?si=XvvRFZv_K4PbHgn0" // Substitua pelo link do vídeo
+          src="https://www.youtube.com/embed/PlrUbAjPF5k"
           title="Vídeo do YouTube"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen
-          className="w-full h-[600px] rounded-lg" // Aumentei a altura para 600px
-        ></iframe>
+          className="w-full h-[400px] rounded-lg"
+        />
       </div>
     </div>
   </div>
