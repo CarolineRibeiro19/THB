@@ -66,7 +66,7 @@ function Header() {
       </button>
       <div className="aspect-w-16 aspect-h-9">
         <iframe
-          src="https://www.youtube.com/embed/EebaH6asVLo" // Substitua pelo link do vídeo
+          src="https://youtu.be/PlrUbAjPF5k?si=XvvRFZv_K4PbHgn0" // Substitua pelo link do vídeo
           title="Vídeo do YouTube"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
